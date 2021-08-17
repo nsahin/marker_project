@@ -1,6 +1,6 @@
 # Phenotypic Profiling for Marker Project
 
-Copy the Marker Project scripts
+Copy Marker Project scripts
 
     git clone https://github.com/nsahin/marker_project
 
