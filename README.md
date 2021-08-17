@@ -2,7 +2,7 @@
 
 Copy the Marker Project scripts
 
-    git clone https://github.com/nsahin/MarkerProject
+    git clone https://github.com/nsahin/marker_project
 
 Use the following command to create the virtual environment
 
